@@ -1,0 +1,16 @@
+Ordem de precedência operações aritméticas:
+1) ()
+2) **
+3) *  /  //  %
+4) +  -
+
+
+Limitar o o numero de casas decimais:
+{:.2f} vai limitar em 2 casas decimais
+
+
+!!! pesquisar sobre SPLIT
+
+informações sobre string -->
+https://panda.ime.usp.br/pensepy/static/pensepy/08-Strings/strings.html
+
